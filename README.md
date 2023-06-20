@@ -8,7 +8,7 @@ in these 3 ExpectedOperation .xml files, it contains 3 different xml messages fr
 all 3 of these actors are : GSP, DCM, DER.
 
 
-##DTMC_Auto.py
+## DTMC_Auto.py
 
 This script will automate the process of the DTMC system from taking xml file and process it through the classifier.py
 and the TMsim.py and as a result it will have SimOut.csv file. 
